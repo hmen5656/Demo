@@ -16,4 +16,4 @@ git push -u origin master  // linkenen dosylari master branch a yukluyoruz
 
 git status // to check latest git status if there is ant change (update)
 
-Huseyin MEN <3
+SerMED <3
