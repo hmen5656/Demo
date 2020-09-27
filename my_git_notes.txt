@@ -1,0 +1,10 @@
+brew install git  // to download git
+git --version     // to check version
+//there is 2 types of repos local and remote
+//local is you own machine , remote repository such as github
+//local repositories pulles datas or documents to makse some updates then fuch them remote repository again
+//
+//Local repo is contain Working Ares, Staging Area and Commited Files
+
+git status       // to cheack updates on folder ,  if there is any change on files
+
